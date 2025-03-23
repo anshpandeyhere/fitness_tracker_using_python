@@ -16,3 +16,9 @@ A **machine learning-based fitness tracking application** that allows users to l
 
 ## 🏗️ Project Structure  
 
+📂 Smart-Fitness-Tracker
+├── 📁 data/ # Stores user and workout records (SQLite database)
+├── 📁 models/ # Machine Learning model (Random Forest Regressor)
+├── 📄 app.py # Main backend logic (Flask)
+├── 📄 requirements.txt # List of dependencies
+├── 📄 README.md # Project documentation
