@@ -31,7 +31,7 @@ User Attributes: Age, weight, height, BMI
 Workout Details: Duration, heart rate, body temperature
 
 
-Install Dependencies
+### Install Dependencies
 pip install -r requirements.txt  
 
 
