@@ -33,6 +33,7 @@ Workout Details: Duration, heart rate, body temperature
 🎨 Screenshots
 
 ![Screenshot 2025-03-22 144011](https://github.com/user-attachments/assets/8031dbf2-cb5f-4a18-a201-4c6293e1a24a)
+                              Login/Register Page
 
 ![Screenshot 2025-03-22 144050](https://github.com/user-attachments/assets/36b3e98d-73bf-42f8-bdf0-59d82390e22d)
 
