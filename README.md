@@ -70,5 +70,5 @@ pip install -r requirements.txt
 
 
 
-# Anything to modify ??
+# Any Ideas ??
 ## Feel free to reach out at hereanshpandey@gmail.com
